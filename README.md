@@ -1,2 +1,0 @@
-#collectingInfo
-#collectingInfo
